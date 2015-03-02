@@ -1,0 +1,123 @@
+body {
+  background-color: #66cdaa;
+}
+h1 {
+  text-align: center;
+  font-size: 36px;
+}
+h2 {
+  font-size: 28px;
+  font-family: helvetica;
+  display: inline-block;
+
+}
+#contestants {
+  text-align: left;
+  float: left;
+  display: inline-block;
+  margin: 5px 100px 5px 325px;
+  font-size: 36px;
+}
+#eventTitle {
+  text-align: right;
+  float: right;
+  display: inline-block;
+  margin: 5px 100px 5px 450px;
+  font-size: 36px;
+
+}
+#turtle {
+  height: 420px;
+  width: 310px;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin: 5px 50px 5px 100px;
+  background-color: #F29333;
+  display: inline-block;
+  float: left;
+
+}
+#turtle p {
+  text-align: center;
+  font-family: sans-serif;
+  margin: 20px 10px 40px 10px;
+}
+
+#turty {
+border: 1.5px solid green;
+border-radius: 5px;
+
+}
+
+#hare {
+  height: 420px;
+  width: 310px;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin: 5px 50px 5px 50px;
+  background-color: #F5333d;
+  display: inline-block;
+  
+
+}
+
+#hare p {
+  text-align: center;
+  font-family: sans-serif;
+  margin: 20px 10px 50px 20px;
+}
+#harry {
+  text-align: center;
+  border: 1.5px solid gray;
+  border-radius: 5px;
+  margin: 5px;
+}
+#events {
+  height: 420px;
+  width: 250px;
+  background-color: #F0a7eb;
+  display: inline-block;
+  border: 2px solid black;
+  border-radius: 5px;
+  float: right;
+  margin: 5px 50px 5px 50px;
+
+}
+#select {
+  display: block;
+  text-align: center;
+  font-size: 20px;
+  font-style: arial;
+  color: red;
+}
+
+#events ul {
+  line-height: 50px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#events ul li {
+  height: 50px;
+  width: 150px;
+  border-radius: 10px;
+  border: 2px solid black;
+  margin: 30px 10px;
+  background-color: #9378de;
+}
+
+#outcome {
+  height: 300px;
+  width: 500px;
+  background-color: #F0d318;
+  text-align: center;
+  font-size: 40px;
+  margin: 100px;
+  position: absolute;
+}
+
+#outcome p {
+  padding: 100px;
+  
+}
